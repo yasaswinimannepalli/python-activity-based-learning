@@ -11,4 +11,4 @@
 11. name:Mannepalli Yasaswini
 12. roll:26000946
 13. sec:csm2
-14. Branch:CSM
+14. Branch:CSE(AIML)
